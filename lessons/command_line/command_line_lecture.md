@@ -194,6 +194,7 @@ ls -lh
 ```
 
 > What changed?
+>> File sizes were defined in B or KB - adjusted to easily depict file size.
 
 If instead copying we just want to change the name of a file, we can do:
 
