@@ -437,6 +437,7 @@ Here `paulburkard` has full access (read, write, execute).  The group `staff` ha
 What about for this one?
 ```
 drwx------   4 paulburkard  staff   136B Jun  6 10:16 Applications
+> This means only the user has any access, and they are able to read, write and execute.
 ```
 #### Changing Permissions
 Now that you understand the access model, here are a few commands that allow you to change the permissions.
