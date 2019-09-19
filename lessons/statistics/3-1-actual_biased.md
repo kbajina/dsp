@@ -17,7 +17,7 @@ thinkplot.Show(xlabel='# of kids under 18', ylabel='Probability Distribution', y
 
 #### See below the plotting for the Actual vs. Biased PMF for number of children in a household under the age of 18:
 
-![PMF Distribution Comparison](Exercise 3.1 (PMFs Plot).png)
+![PMF Distribution Comparison](https://github.com/kbajina/dsp/blob/master/lessons/statistics/Exercise%203.1%20(PMFs%20Plot).png)
 
 
 #### pmf_numkdhh.Mean() 
