@@ -8,7 +8,7 @@
     
 ##### PMF Graph:
 
-![PMF Graph](httpshttps://github.com/kbajina/dsp/blob/master/lessons/statistics/Exercise%204.2%20(PMF%20Plot).png)
+![PMF Graph](https://github.com/kbajina/dsp/blob/master/lessons/statistics/Exercise%204.2%20(PMF%20Plot).png)
 
 > While the gap between random numbers from np.random.random is evenly spaced, this graph doesn't give the picture of a uniform distribute, because of the gaps between the random numbers. The line graph returns to 0% probability for all of these gap figures. This is because the PMF only looks at the probability of each number (event) occuring.
 
